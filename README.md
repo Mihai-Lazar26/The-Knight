@@ -17,9 +17,9 @@
 
 ##Screenshots
 
+![In game image](Screenshots/In_game_1.png)
+![In game image](Screenshots/In_game_2.png)
+
 ![Main menu image](Screenshots/Main_menu.png) 
 ![Keybindings image](Screenshots/Keybindings.png)
 ![Save files image](Screenshots/Save_files.png)
-
-![In game image](Screenshots/In_game_1.png)
-![In game image](Screenshots/In_game_2.png)
