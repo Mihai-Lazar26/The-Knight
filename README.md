@@ -19,6 +19,7 @@
 
 ![In game image](Screenshots/In_game_1.png)
 ![In game image](Screenshots/In_game_2.png)
+![Pause image](Screenshots/Pause.png) 
 
 ![Main menu image](Screenshots/Main_menu.png) 
 ![Keybindings image](Screenshots/Keybindings.png)
